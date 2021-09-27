@@ -1,2 +1,2 @@
 # NumberGuesserGame
-Js game for guessing number vs computer
+Js number guessing game
